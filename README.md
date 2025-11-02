@@ -49,11 +49,9 @@ Backend:
   JWT Authentication
 
 ---------------------------------------------------------------------------------------------------------------
+<img width="1360" height="644" alt="Screenshot 2025-11-02 105903" src="https://github.com/user-attachments/assets/21551366-9cd1-4253-87d0-f3bb7b7bfabb" />
 
-
-<img width="440" height="434" alt="image" src="https://github.com/user-attachments/assets/7ac76640-1c4b-44fe-8f2d-5cf92698bc8e" />
-
-
+---------------------------------------------------------------------------------------------------------------
 **  How to Use **
 
   Register a new account
