@@ -60,13 +60,13 @@ Backend:
 
 
   **API Endpoints**
-  POST /api/auth/register - Register user
-  POST /api/auth/login - Login user
-  GET /api/tasks - Get tasks
-  POST /api/tasks - Create task
-  PUT /api/tasks/:id - Update task
-  DELETE /api/tasks/:id - Delete task
+ - POST /api/auth/register - Register user
+ - POST /api/auth/login - Login user
+ -  GET /api/tasks - Get tasks
+ - POST /api/tasks - Create task
+ - PUT /api/tasks/:id - Update task
+ - DELETE /api/tasks/:id - Delete task
 
 
-  Author
+  **Author**
 Usman - usman-dev56
