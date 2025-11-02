@@ -50,6 +50,10 @@ Backend:
 
 ---------------------------------------------------------------------------------------------------------------
 
+
+<img width="440" height="434" alt="image" src="https://github.com/user-attachments/assets/7ac76640-1c4b-44fe-8f2d-5cf92698bc8e" />
+
+
 **  How to Use **
 
   Register a new account
