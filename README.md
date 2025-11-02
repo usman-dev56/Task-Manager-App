@@ -23,20 +23,20 @@ A simple full-stack task management application built with React and Node.js.
 
 ---------------------------------------------------------------------------------------------------------------
 **Features**
-  1-- User registration and login
+   - User registration and login
 
-  2--  Create, edit, delete tasks
+  - Create, edit, delete tasks
 
-  3-- Mark tasks as complete/incomplete
+  - Mark tasks as complete/incomplete
 
-  4--Set task priorities (High, Medium, Low)
+  - Set task priorities (High, Medium, Low)
 
-  5-- Filter tasks (All, Active, Completed)
+  - Filter tasks (All, Active, Completed)
 
-  6-- Responsive design
+  - Responsive design
 ---------------------------------------------------------------------------------------------------------------
 
-**## Tech Stack ##**
+** Tech Stack **
 
 Frontend:
   React + Vite
@@ -49,7 +49,9 @@ Backend:
   JWT Authentication
 
 ---------------------------------------------------------------------------------------------------------------
-** ******* How to Use *********
+
+**  How to Use **
+
   Register a new account
   Login with your credentials
   Add tasks using the form
